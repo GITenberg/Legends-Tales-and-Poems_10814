@@ -14,6 +14,7 @@ Author: Gustavo Adolfo Becquer
 Edited with Introduction, Notes and Vocabulary, by Everett Ward Olmsted
 
 Release Date: January 24, 2004 [EBook #10814]
+[Last updated: January 12, 2016]
 
 Language: English
 
@@ -470,7 +471,7 @@ a painter who had been employed by the Marquis of Remisa to decorate
 his palace, but who could not do the figures in the fresco.
 
 In 1857, together with other _litterateurs_, Becquer undertook the
-preparation and direction of a work entitled _Historia de los Temples
+preparation and direction of a work entitled _Historia de los Templos
 de Espana_.[1] Like so many of the author's plans, this work remained
 unfinished; but from the single volume that appeared can be seen how
 vast was the scope of the work, and how scholarly its execution.
@@ -572,7 +573,7 @@ my stomach less."[1]
   bed, a merry devil.
 
   A woman's coffin uncovered by the sexton, while a lover standing by
-  exclaims, "iiCascaras!! icomo ha cambiadd!"
+  exclaims, "iiCascaras!! icomo ha cambiado!"
 
   A scene at the _Teatro Real_ with Senor Espin y Guillen in a small
   group behind the scenes, and a prima donna singing. Actors standing
@@ -622,7 +623,7 @@ my stomach less."[1]
   A tournament on skeleton horses.
 
   A woman recently deceased, surrounded by skeletons offering their
-  compliments. They are presented by one of then number, with hat in
+  compliments. They are presented by one of their number, with hat in
   hand.
 
   A balcony courting scene between skeleton lovers.
@@ -1201,7 +1202,7 @@ Obras de Gustavo A. Becquer. _Quinta edicion aumentada con varias
 poesias y leyendas. Madrid, Libreria de Fernando Fe, 1898._ Three
 volumes.
 
-Historia de los Temples de Espana, _publicada bajo la proteccion de
+Historia de los Templos de Espana, _publicada bajo la proteccion de
 SS. MM. AA. y muy reverendos senores arzobispos y obispos--dirigida
 por D. Juan de la Puerto Vizcaino y D. Gustavo Adolfo Becquer. Tomo I,
 Madrid, 1857. Imprenta y Estereotipia Espanola de los Senores Nieto y
@@ -2564,7 +2565,7 @@ desconocida, no faltando quien pudo comprender que en efecto rezaba,
 aunque diciendo las oraciones al reves, como es costumbre de estas
 malas mujeres.
 
-En este punto se detuvo el pastor un memento, tendio a su alrededor
+En este punto se detuvo el pastor un momento, tendio a su alrededor
 una mirada, y prosiguio asi:
 
 --?Siente usted este profundo silencio que reina en todo el monte, que
@@ -2634,7 +2635,7 @@ vieja entonces, tan humilde, tan hipocritona, hasta aquel punto, se
 puso de pie con un movimiento tan rapido como el de una culebra
 enroscada a la que se pisa y despliega[1] sus anillos irguiendose
 llena de colera.--iOh! no; ino quiero morir, no quiero morir! decia;
-idejadme, u os mordero las manos con que me sujetais!... Pero aun no
+idejadme, u os mordere las manos con que me sujetais!... Pero aun no
 habia pronunciado estas palabras, abalanzandose a sus perseguidores,
 fuera de si, con las grenas sueltas, los ojos inyectados en sangre, y
 la hedionda boca entreabierta y llena de espuma, cuando la oi arrojar
@@ -3550,7 +3551,7 @@ satisfacer el mas leve de sus antojos.
 Por su mano se entretenia en afilar en los ratos de ocio las agudas
 saetas de su ballesta de marfil; el domaba los potros que habia de
 montar su senora; el ejercitaba en los ardides de la caza a sus
-lebreles favorites y amaestraba a sus halcones, a los cuales compraba
+lebreles favoritos y amaestraba a sus halcones, a los cuales compraba
 en las ferias de Castilla[1] caperuzas rojas bordadas de oro.
 
   [Footnote 1: Castilla = 'Castile.' An old kingdom of Spain, in the
@@ -3631,7 +3632,7 @@ que habian sesteado comenzo a revolver en su mente las mas absurdas
 imaginaciones.
 
 No cabe duda que todo eso del hablar las corzas es pura aprension de
-Esteban, que es un complete mentecato, decia entre si el joven
+Esteban, que es un completo mentecato, decia entre si el joven
 montero, mientras que jinete en un poderoso alazan, seguia paso a paso
 el palafren de Constanza, la cual tambien parecia mostrarse un tanto
 distraida y silenciosa, y retirada del tropel de los cazadores, apenas
@@ -3648,7 +3649,7 @@ pudiese coger viva una corza blanca para ofrecersela a mi senora!
   Aquitaine, and a keen hunter; and that once when he was engaged in
   the chase on Good Friday, in the forest of Ardennes, a stag appeared
   to him having a shining crucifix between its antlers. He heard a
-  warning voice and was converted, entered, the chnrch, and became
+  warning voice and was converted, entered the chnrch, and became
   bishop of Maestricht and Liege. See the _Encyclopedia Americano_.
 
   The role of the deer in mythology, however, is not usually so
@@ -3678,9 +3679,7 @@ pudiese coger viva una corza blanca para ofrecersela a mi senora!
     Which, though seemingly doomed in its breast to sustain
     A softened remembrance of sorrow and pain,
     Is spotless, and holy, and gentle, and bright;
-    And glides o'er the earth like an angel of light.
-
-  ]
+    And glides o'er the earth like an angel of light.]
 
 Asi pensando y discurriendo paso Garces la tarde, y cuando ya el sol
 comenzo a esconderse por detras de las vecinas lomas y don Dionis
@@ -3688,7 +3687,7 @@ mando volver grupas a su gente para tornar al castillo, separose sin
 ser notado de la comitiva y echo en busca del zagal por lo mas espeso
 e intrincado del monte.
 
-La noche habia cerrado casi por complete cuando don Dionis llegaba a
+La noche habia cerrado casi por completo cuando don Dionis llegaba a
 las puertas de su castillo. Acto continuo dispusieronle una frugal
 colacion, y sentose con su hija a la mesa.
 
@@ -3754,7 +3753,7 @@ Munilla,[1] no se iba[2] sin un arpon en el cuerpo.
 En este punto del dialogo, tercio don Dionis, y con una desesperante
 gravedad a traves de la que se adivinaba toda la ironia de sus
 palabras, comenzo a darle al ya asendereado mozo los consejos mas
-originates del mundo, para el caso de que se encontrase de manos a
+originales del mundo, para el caso de que se encontrase de manos a
 boca con el demonio convertido en corza blanca.
 
 A cada nueva ocurrencia de su padre, Constanza fijaba sus ojos en el
@@ -4620,7 +4619,7 @@ diseminados sin orden ni concierto, se veia una abigarrada multitud de
 pajes, soldados, ballesteros y gente menuda, quienes, estos aderezando
 sus corceles y sus armas y disponiendolos para el combate; aquellos
 saludando con gritos o blasfemias las inesperadas vueltas de la
-fortuna, personificad a en los dados del cubilete, los otros
+fortuna, personificada en los dados del cubilete, los otros
 repitiendo en coro el refran de un romance de guerra, que entonaba un
 juglar acompanado de la guzla; los de mas alla comprando a un romero
 conchas,[2] cruces y cintas tocadas en el sepulcro de Santiago,[3] o
@@ -5003,8 +5002,7 @@ nuevo al punto en que hicieron ademan de suspender la pelea.
     Y al rostro la acerca, que el candido lino
     Encubre, con animo asaz descortes;
     Mas la luz apaga viento repentino,
-    Y la blanca dama se puso de pie.
-  ]
+    Y la blanca dama se puso de pie.]
 
 --Sera alguna rafaga de aire que ha abatido la llama al pasar, exclamo
 Carrillo volviendo a ponerse en guardia, y previniendo con una voz a
@@ -5157,7 +5155,7 @@ mas gente, comenzaron a invadir el asilo de las comunidades
 religiosas, acabando a la postre por transformar en cuadras hasta las
 iglesias consagradas al culto. En esta conformidad se encontraban las
 cosas en la poblacion donde tuvo lugar el suceso que voy a referir,
-cuando, una noche, ya a hora hastante avanzada, envueltos en sus
+cuando, una noche, ya a hora bastante avanzada, envueltos en sus
 obscures capotes de guerra y ensordeciendo las estrechas y solitarias
 calles que conducen desde la Puerta del Sol[4] a Zocodover,[5] con el
 choque de sus armas y el ruidoso golpear de los cascos de sus corceles
@@ -5234,7 +5232,7 @@ tejados de crestas desiguales y obscuras.
 
 --He aqui vuestro alojamiento, exclamo el aposentador al divisarle y
 dirigiendose al capitan, que despues que hubo mandado hacer alto a la
-tropa, ecbo pie a tierra, tomo el farolillo de manos del guia, y se
+tropa, echo pie a tierra, tomo el farolillo de manos del guia, y se
 dirigio hacia el punto que este le senalaba.
 
 Como quiera que la iglesia del convento estaba completamente
@@ -5476,7 +5474,7 @@ de contestarme, ni verme ni oirme.
 --?Era muda? exclamaron a un tiempo tres o cuatro de los que
 escuchaban la relacion.
 
---Lo era todo a la vez, exclame al fin el capitan despues de un
+--Lo era todo a la vez, exclamo al fin el capitan despues de un
 momento de pausa; porque era... de marmol. Al oir el estupendo
 desenlace de tan extraiia aventura, cuantos habia en el corro
 prorrumpieron en una ruidosa carcajada, mientras uno de ellos dijo al
@@ -5811,7 +5809,7 @@ inseguros... ?que locura vais a hacer? iBasta de broma y dejad en paz
 a los muertos!
 
 El joven ni oyo siquiera las palabras de sus amigos, y tambaleando y
-como pudo llego a la tumba y aproximbe a la estatua; pero al tenderle
+como pudo llego a la tumba y aproximose a la estatua; pero al tenderle
 los brazos resono un grito de horror en el templo. Arrojando sangre
 por ojos, boca y nariz habia caido desplomado y con la cara deshecha
 al pie del sepulcro.
@@ -6229,12 +6227,12 @@ esta noche a la Misa de media noche. Esta fue la respuesta del
 familiar.
 
 La noticia cundio instantaneamente entre la muchedumbre. Pintar el
-efecto desagradable que causo en to do el mundo, seria cosa imposible;
+efecto desagradable que causo en todo el mundo, seria cosa imposible;
 baste decir que comenzo a notarse tal bullicio en el templo, que el
 asistente se puso de pie y los alguaciles entraron a imponer silencio,
 confundiendose entre las apinadas olas de la multitud.
 
-En aquelmomento, un hombre mal trazado, seco, huesudo y bisojo por
+En aquel momento, un hombre mal trazado, seco, huesudo y bisojo por
 anadidura, se adelanto hasta el sitio que ocupaba el prelado.
 
 --Maese Perez esta enfermo, dijo: la ceremonia no puede empezar. Si
@@ -6246,12 +6244,12 @@ a aquel personaje extrano por un organista envidioso, enemigo del de
 Santa Ines, comenzaban a prorrumpir en exclamaciones de disgusto,
 cuando de improviso se oyo en el atrio un ruido espantoso.
 
---iMaese Phez esta aqui!... iMaese Perez esta aqui!... A estas voces
+--iMaese Perez esta aqui!... iMaese Perez esta aqui!... A estas voces
 de los que estaban apinados en la puerta, todo el mundo volvio la
 cara.
 
 Maese Perez, palido y desencajado, entraba en efecto en la iglesia,
-conducido en un silon, que todos se disputaban el honor de llevar en
+conducido en un sillon, que todos se disputaban el honor de llevar en
 sus hombros.
 
 Los preceptos de los doctores, las lagrimas de su hija, nada habia
@@ -7067,8 +7065,7 @@ un abrir y cerrar de ojos.
   _Gerusalemme Liberata_, ix. 18:
 
     _Dal sonno a la marts e un picciol varco._
-    Small is the gulf that lies 'twixt sleep and death.
-  ]
+    Small is the gulf that lies 'twixt sleep and death.]
 
 Todos perecieron.
 
@@ -7454,7 +7451,7 @@ dentro de la armadura del senor del Segre?
 
 --Para mi, prosiguio con voz tremula el infeliz, en quien todos
 reconocieron al alcaide de las prisiones; para mi... porque las
-armas... ban desaparecido.
+armas... han desaparecido.
 
 Al oir estas palabras, el asombro se pinto en el rostro de cuantos se
 encontraban en el portico, que, mudos e inmoviles, hubieran
@@ -7481,7 +7478,7 @@ ferrada puerta de su calabozo; ni un rumor se percibia.
 
 En vano procure observarlas a traves de un pequenio agujero producido
 en el muro; arrojadas sobre un poco de paja y en uno de los mas
-obscures rincones, permanecian un dia y otro descompuestas e
+obscuros rincones, permanecian un dia y otro descompuestas e
 inmoviles.
 
 Una noche, por ultimo, aguijoneado por la curiosidad y deseando
@@ -7512,7 +7509,7 @@ con la novedad, pedia a grandes voces la muerte del curioso autor de
 su nueva desgracia.
 
 Al cabo logrose apaciguar el tumulto, y comenzaron a disponerse a una
-nueva persecution. Esta obtuvo tambien un resultado satisfactorio.
+nueva persecucion. Esta obtuvo tambien un resultado satisfactorio.
 
 Al cabo de algunos dias, la armadura volvio a encontrarse en poder de
 sus perseguidores. Conocida la formula, y mediante la ayuda de San
@@ -7543,20 +7540,20 @@ sus consejos, decidiera lo que debia hacerse de ella.
   omission of the conjunction que before the subjunctive decidiera.
   This is a frequent Spanish usage.]
 
-El santo varon ordeno al pueblo una penitencia general. Se encerre por
+El santo varon ordeno al pueblo una penitencia general. Se encerro por
 tres dias en el fondo de una caverna que le servia de asilo, y al cabo
 de ellos dispuso que se fundiesen las diabolicas armas, y con ellas y
 algunos sillares del castillo del Segre, se levantase una cruz.
 
 La operacion se llevo a termino, aunque no sin que nuevos y
-aterradores prodigies llenasen de pavor el animo de los consternados
+aterradores prodigios llenasen de pavor el animo de los consternados
 habitantes de Bellver.
 
 En tanto que las piezas arrojadas a las llamas comenzaban a
 enrojecerse, largos y profundos gemidos parecian escaparse de la ancha
 hoguera, de entre cuyos troncos saltaban[1] como si estuvieran vivas y
 sintiesen la accion del fuego. Una tromba de chispas rojas, verdes y
-azules danzaba en la cuspidede sus encendidas lenguas, y se retorcian
+azules danzaba en la cuspide de sus encendidas lenguas, y se retorcian
 crujiendo como si una legion de diablos, cabalgando sobre ellas,
 pugnasen por libertar a su senor de aquel tormento.
 
@@ -7771,7 +7768,7 @@ V
 Ya despues de dudar un instante y a una nueva orden de su senor,
 comenzaban los pajes a desatar los lebreles, que aturdian la iglesia
 con sus ladridos; ya el baron habia armado su ballesta riendo con una
-lisa de Satanas, y el venerable sacerdote, murmurando una plegaria,
+risa de Satanas, y el venerable sacerdote, murmurando una plegaria,
 elevaba sus ojos al cielo y esperaba tranquilo la muerte, cuando se
 oyo fuera del sagrado recinto una voceria horrible, bramidos de
 trompas que hacian senales de ojeo, y gritos de _iAl jabali!--iPor Zas
@@ -7982,9 +7979,7 @@ como un bajel de plata sobre la superficie de un lago azul.
     Luminous, dense, consolidate and bright
     As adamant on which the sun is striking.
     Into itself did the eternal pearl
-    Receive us...
-
-  ]
+    Receive us...]
 
 Y vio el sol volteando encendido sobre ejes de oro en una atmosfera de
 colores y de fuego, y en su foco a los igneos espiritus[1] que habitan
@@ -8103,9 +8098,7 @@ las mananas de Abril?[3]
       The golden barriers,
 
     And laid her face between her hands,
-      And wept. (I heard her tears.)
-
-  ]
+      And wept. (I heard her tears.)]
 
 Despues las tinieblas rosadas y azules que flotaban en el espacio,
 como cortinas de gasa transparente, se rasgaron como el dia de
@@ -8363,7 +8356,7 @@ I
 
 
 La noche habia cerrado, y el viento gemia agitando las hojas de los
-arboles, por entre cuyas frondosas ramas se deslizabs un suave rayo de
+arboles, por entre cuyas frondosas ramas se deslizaba un suave rayo de
 luna, cuando Teobaldo, incorporandose sobre el codo y restregandose
 los ojos como si despertara de un profundo sueno, tendio alrededor una
 mirada y se encontro en el mismo bosque donde hirio al jabali, donde
@@ -8515,9 +8508,7 @@ vendaval me arranco de entre el legamo y los juncos de la orilla.
     Sans me plaindre ou m'effrayer;
     Je vais ou va toute chose,
     Oh va la fenille de rose
-    Et la feuille de laurier.
-
-  ]
+    Et la feuille de laurier.]
 
 --iAy! ?Quien diria que habiamos de acabar 'amarillas y secas
 arrastrandonos por la tierra, nosotras que vivimos vestidas de color y
@@ -8547,7 +8538,7 @@ nuestro alrededor.
 
 --Y las mariposas blancas y las libelulas azules, que giran por el
 aire en extranos circulos, se paraban un momento en nuestros
-dentellados bordes a contarse los secretes de ese misterioso amor que
+dentellados bordes a contarse los secretos de ese misterioso amor que
 dura un instante y les consume la vida.[1]
 
   [Footnote 1: y les consume la vida. This is strictly true of the
@@ -8587,7 +8578,7 @@ aristas y de plumas.
 --Nosotras serviamos de abrigo a los pequenuelos contra las molestas
 gotas de la lluvia en las tempestades de verano.
 
---Nosotras les serviamos de dosel y los defendiamos de los importunes
+--Nosotras les serviamos de dosel y los defendiamos de los importunos
 rayos del sol.
 
 --Nuestra vida pasaba como un sueno de oro, del que no sospechabamos
@@ -8780,9 +8771,7 @@ IV[1]
       Up from Earth's Center through the Seventh Gate
       I rose, and on the Throne of Saturn sate,
       And many a Knot unravel'd by the Road;
-      But not the Master-knot of Human Fate.
-
-    ]
+      But not the Master-knot of Human Fate.]
 
     [Footnote 5: No sepa a do camina. This doubt seems to assail
     frequently the mind of Becquer, as it does that of the old Persian
@@ -8903,9 +8892,7 @@ X[1]
       Floating on waves of harmony I hear
       A stir of kisses, and a sweep of wings;
       Mine eyelids close--"What pageant nears?"
-          "'Tis Love that passes by!"
-
-    ]
+          "'Tis Love that passes by!"]
 
 
 
@@ -9154,9 +9141,7 @@ XXVII[1]
       A light smile upcurls,
       Sweet as the luminous trail
       Left by the dying sun--
-      Sleep!
-
-    ]
+      Sleep!]
 
     [Footnote 3: los ... leve. Prose order--_(una) leve sonrisa pliega
     los extremos..._]
@@ -9224,9 +9209,7 @@ XXIX[1]
     phrase becomes clear when we compare it with the Italian original.
 
       _Quel giorno piu non vi leggemmo avante._
-      That day we read in it no farther.
-
-    ]
+      That day we read in it no farther.]
 
 
 
@@ -9671,7 +9654,7 @@ LXVI[1]
   Valle de eternas nieves y de eternas
         Melancolicas brumas.
   En donde este una piedra solitaria
-        Sin inscription alguna,
+        Sin inscripcion alguna,
         Donde habite el olvido,
         Alli estara mi tumba?[3]
 
@@ -9802,7 +9785,7 @@ LXXIII[1]
   Al muro arrojaba
   La sombra del lecho;
   Y entre aquella sombra
-  Veiase a intervales,
+  Veiase a intervalos,
   Dibujarse rigida
   La forma del cuerpo.
 
@@ -9856,7 +9839,7 @@ LXXIII[1]
   Formando el cortejo.
 
     Del ultimo asilo,
-  Obscure y estrecho,
+  Obscuro y estrecho,
   Abrio la piqueta
   El nicho a un extremo.[4]
   Alli la acostaron,
@@ -9871,7 +9854,7 @@ LXXIII[1]
   La noche se entraba,
   Reinaba el silencio;
   Perdido en las sombras,
-  Medite un memento:
+  Medite un momento:
   "_iDios mio, que solos
   se quedan los muertos?!_"
 
@@ -10073,7 +10056,7 @@ a medio --, half open; _subst._, opening; en un -- y cerrar de ojos,
 in the twinkling of an eye; in an instant; _refl._, to open (up), be
 disclosed; to burst, swell.
 
-absoulucion, _f._, absolution.
+absolucion, _f._, absolution.
 
 absolutamente, absolutely.
 
@@ -16919,7 +16902,7 @@ piadoso, -a, pious.
 
 piafar, to paw; _subst._ _m._, pawing.
 
-piau pianito, gently, softly.
+pian pianito, gently, softly.
 
 picacho, _m._, top, peak.
 
